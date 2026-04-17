@@ -1,2 +1,4 @@
 # js_learning
-Consists of Javascript learning practie assignments
+NOTE: ZIP FILES - BROCODE NOTES --- FORMAT --- XX_Js
+NOTE: Other format - Superssimpledev --- FORMAT---xxx_Learning.js/css/html
+      
